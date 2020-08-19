@@ -1,0 +1,6 @@
+pandas==0.24.2
+matplotlib==2.2.4
+plotly==3.3.0
+xlrd==1.1.0
+fpdf==1.7.2
+PyPDF2==1.26.0
